@@ -1,7 +1,7 @@
 <!-- Dynamic Sequential Typing Header -->
 <div align="left">
   <a href="https://github.com/cyberpunk92">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7057FF&width=750&lines=Computer+Vision+%26+Deep+Learning+Researcher;Medical+Imaging+%C2%B7+3D+Brain+MRI+%26+Dermoscopy;Undergraduate+Researcher+%40+UET+Taxila" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7057FF&width=750&lines=Computer+Vision+%26+Deep+Learning+Researcher;Medical+Imaging+%C2%B7+3D+Brain+MRI+%26+Dermoscopy;Interest5in%Computer%Vision" alt="Typing SVG" />
   </a>
 </div>
 
