@@ -34,8 +34,8 @@ Undergraduate researcher specializing in **medical computer vision**, **volumetr
 ### 📜 Verified Certifications
 
 <p align="left">
-  <a href="https://coursera.org/verify/77T4SEDGOISP" target="_blank">
-    <img src="[https://img.shields.io/badge/DeepLearning.AI-Neural_Networks_%26_Deep_Learning-0073B7](https://coursera.org/verify/77T4SEDG0ISP )?style=for-the-badge&logo=coursera&logoColor=white" alt="Neural Networks & Deep Learning" />
+  <a href="https://coursera.org/verify/77T4SEDG0ISP" target="_blank">
+    <img src="https://img.shields.io/badge/DeepLearning.AI-Neural_Networks_%26_Deep_Learning-0073B7?style=for-the-badge&logo=coursera&logoColor=white" alt="Neural Networks & Deep Learning" />
   </a>
   <br/>
   <a href="https://coursera.org/verify/11QC1YSXEV6P" target="_blank">
@@ -50,8 +50,6 @@ Undergraduate researcher specializing in **medical computer vision**, **volumetr
     <img src="https://img.shields.io/badge/Google-Crash_Course_on_Python-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Crash Course on Python" />
   </a>
 </p>
-
----
 
 ### 🛠️ Technical Skills
 
