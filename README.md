@@ -31,7 +31,7 @@ Undergraduate researcher specializing in **medical computer vision**, **volumetr
 
 | Certification | Issuing Organization | Date | Credential Link |
 | :--- | :--- | :--- | :--- |
-| **Neural Networks and Deep Learning** | DeepLearning.AI | Aug 2026 | [Verify Certificate](https://coursera.org/verify/77T4SEDGOISP) |
+| **Neural Networks and Deep Learning** | DeepLearning.AI | Aug 2026 | [Verify Certificate](https://coursera.org/verify/77T4SEDG0ISP ) |
 | **Practical Machine Learning** | Johns Hopkins University | Aug 2026 | [Verify Certificate](https://coursera.org/verify/11QC1YSXEV6P) |
 | **AI for Autonomous Vehicles and Robotics** | University of Michigan | Jul 2026 | [Verify Certificate](https://coursera.org/verify/EN4GCZ6FH8S8) |
 | **Crash Course on Python** | Google | Aug 2026 | [Verify Certificate](https://coursera.org/verify/6SUJQJ4G9Q5T) |
