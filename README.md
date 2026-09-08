@@ -1,7 +1,7 @@
 <!-- Dynamic Sequential Typing Header -->
 <div align="left">
   <a href="https://github.com/cyberpunk92">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7057FF&width=750&lines=Hello+World+%F0%9F%91%8B+Python+Engineer;Computer+Vision+%26+Deep+Learning+Researcher;Medical+Imaging+%C2%B7+3D+Brain+MRI+%26+Dermoscopy;Learning+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7057FF&width=750&lines=Hello+World+%F0%9F%91%8B+Python+Engineer;Computer+Vision+%26+Deep+Learning+Researcher;Medical+Imaging+%C2%B7+3D+Brain+MRI+%26+Dermoscopy;Interested+in+Computer+Vision" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,12 +41,23 @@ Undergraduate researcher specializing in **medical computer vision**, **volumetr
 
 ### 📜 Verified Certifications
 
-| Certification | Issuing Organization | Date | Credential Verification |
-| :--- | :--- | :--- | :--- |
-| **Crash Course on Python** | Google | Aug 2026 | [Verify Certificate](https://coursera.org/verify/6SUJQJ4G9Q5T) |
-| **Neural Networks and Deep Learning** | DeepLearning.AI | Aug 2026 | [Verify Certificate](https://coursera.org/verify/77T4SEDGOISP) |
-| **Practical Machine Learning** | Johns Hopkins University | Aug 2026 | [Verify Certificate](https://coursera.org/verify/11QC1YSXEV6P) |
-| **AI for Autonomous Vehicles and Robotics** | University of Michigan | Jul 2026 | [Verify Certificate](https://coursera.org/verify/EN4GCZ6FH8S8) |
+<p align="left">
+  <a href="https://coursera.org/verify/77T4SEDGOISP" target="_blank">
+    <img src="https://img.shields.io/badge/DeepLearning.AI-Neural_Networks_%26_Deep_Learning-0073B7?style=for-the-badge&logo=coursera&logoColor=white" alt="Neural Networks & Deep Learning" />
+  </a>
+  <br/>
+  <a href="https://coursera.org/verify/11QC1YSXEV6P" target="_blank">
+    <img src="https://img.shields.io/badge/Johns_Hopkins_University-Practical_Machine_Learning-002D72?style=for-the-badge&logo=coursera&logoColor=white" alt="Practical Machine Learning" />
+  </a>
+  <br/>
+  <a href="https://coursera.org/verify/EN4GCZ6FH8S8" target="_blank">
+    <img src="https://img.shields.io/badge/Univ_of_Michigan-Autonomous_Vehicles_%26_Robotics-00274C?style=for-the-badge&logo=coursera&logoColor=FFCB05" alt="AI for Autonomous Vehicles and Robotics" />
+  </a>
+  <br/>
+  <a href="https://coursera.org/verify/6SUJQJ4G9Q5T" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Crash_Course_on_Python-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Crash Course on Python" />
+  </a>
+</p>
 
 ---
 
@@ -54,20 +65,37 @@ Undergraduate researcher specializing in **medical computer vision**, **volumetr
 
 #### Computer Vision & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-Medical_Imaging-00A699?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Albumentations](https://img.shields.io/badge/Albumentations-Augmentation-FF5722?style=flat-square&logo=python&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-Explainable_AI-7057FF?style=flat-square&logo=scikitlearn&logoColor=white)
 
 #### Languages & Core Tooling
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_/_WSL-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 #### Machine Learning & Numerical Analysis
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
 ---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberpunk92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohsin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpunk92&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
 ---
 
 ### 📫 Contact
