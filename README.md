@@ -12,7 +12,7 @@ Undergraduate researcher specializing in **medical computer vision**, **volumetr
 
 [![Email](https://img.shields.io/badge/Email-mohsinmalik1909%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohsinmalik1909@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-cyberpunk92-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cyberpunk92)
-[![Specialization](https://img.shields.io/badge/Focus-Medical_Imaging_%26_CV-7057FF?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/cyberpunk92)
+
 
 ---
 
