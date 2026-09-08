@@ -29,14 +29,6 @@ Undergraduate researcher specializing in **medical computer vision**, **volumetr
 
 ---
 
-### 🤖 Automation & Systems Architecture
-
-| Project | Highlights & Tech Stack |
-| :--- | :--- |
-| **AI Email Triage Agent** | Automated classification pipeline built with **n8n** and the **Gmail API** to categorize inbound emails and draft context-aware replies. |
-| **Hospital Emergency Bed Allocation** | Relational backend with normalized schemas, complex queries, and automated **PL/SQL** database triggers for real-time emergency bed management. |
-| **Automated Readiness & Deployment** | Enterprise asset tracking system developed with **Java**, **JavaFX**, and **Oracle Database**. |
-
 ---
 
 ### 📜 Verified Certifications
