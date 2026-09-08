@@ -14,10 +14,7 @@ Building high-throughput automated workflows, computer vision models for medical
 
 | Project | Highlights & Tech Stack |
 | :--- | :--- |
-| **AI Email Triage Agent** | Automated end-to-end classification pipeline built with **n8n** and the **Gmail API** to ingest inbound queries, categorize intent, and generate intelligent draft responses. |
-| **Sales & Inventory Engine** | Dual-pipeline FMCG distribution engine utilizing **n8n**, **JavaScript**, and **Google Sheets API** for real-time sales reporting and automated stock reordering. |
 | **Medical Image Classification** | Deep learning research benchmarks analyzing dermatoscopic and spinal cord imaging utilizing **ConvNeXt**, **EfficientNet**, and **Swin Transformers** in Python. |
-| **Trend-Shift Platform** | Content and digital analytics platform featuring custom web widgets, automation scripts, and technical SEO architecture. |
 
 ---
 
