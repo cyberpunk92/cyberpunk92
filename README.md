@@ -68,14 +68,6 @@ Undergraduate researcher specializing in **medical computer vision**, **volumetr
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberpunk92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohsin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpunk92&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 ### 📫 Contact
