@@ -1,7 +1,7 @@
 <!-- Dynamic Sequential Typing Header -->
 <div align="left">
   <a href="https://github.com/cyberpunk92">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7057FF&width=750&lines=Computer+Vision+%26+Deep+Learning+Researcher;Medical+Imaging+%C2%B7+3D+Brain+MRI+%26+Dermoscopy;Interested+in+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7057FF&width=750&lines=Hello+World+%F0%9F%91%8B+Python+Engineer;Computer+Vision+%26+Deep+Learning+Researcher;Medical+Imaging+%C2%B7+3D+Brain+MRI+%26+Dermoscopy;Interested+in+Computer+Vision" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,9 +10,11 @@
 
 Undergraduate researcher specializing in **medical computer vision**, **volumetric neuroimaging (3D MRI)**, and **explainable deep learning (XAI)**. Experienced in developing custom architectures using **PyTorch**, **MONAI**, vision backbones (**Swin Transformer**, **ConvNeXt**, **EfficientNet**), and gradient-based interpretability (**Grad-CAM**).
 
-[![Email](https://img.shields.io/badge/Email-mohsinmalik1909%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohsinmalik1909@gmail.com)
+[![Google Python Certified](https://img.shields.io/badge/Google-Python_Certified-4285F4?style=flat-square&logo=google&logoColor=white)](https://coursera.org/verify/6SUJQJ4G9Q5T)
+[![DeepLearning.AI Certified](https://img.shields.io/badge/DeepLearning.AI-Neural_Networks_Certified-0073B7?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/77T4SEDGOISP)
 [![GitHub](https://img.shields.io/badge/GitHub-cyberpunk92-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cyberpunk92)
-
+<br>
+[![Email](https://img.shields.io/badge/Email-mohsinmalik1909%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohsinmalik1909@gmail.com)
 
 ---
 
@@ -27,14 +29,24 @@ Undergraduate researcher specializing in **medical computer vision**, **volumetr
 
 ---
 
+### 🤖 Automation & Systems Architecture
+
+| Project | Highlights & Tech Stack |
+| :--- | :--- |
+| **AI Email Triage Agent** | Automated classification pipeline built with **n8n** and the **Gmail API** to categorize inbound emails and draft context-aware replies. |
+| **Hospital Emergency Bed Allocation** | Relational backend with normalized schemas, complex queries, and automated **PL/SQL** database triggers for real-time emergency bed management. |
+| **Automated Readiness & Deployment** | Enterprise asset tracking system developed with **Java**, **JavaFX**, and **Oracle Database**. |
+
+---
+
 ### 📜 Verified Certifications
 
-| Certification | Issuing Organization | Date | Credential Link |
+| Certification | Issuing Organization | Date | Credential Verification |
 | :--- | :--- | :--- | :--- |
-| **Neural Networks and Deep Learning** | DeepLearning.AI | Aug 2026 | [Verify Certificate](https://coursera.org/verify/77T4SEDG0ISP ) |
+| **Crash Course on Python** | Google | Aug 2026 | [Verify Certificate](https://coursera.org/verify/6SUJQJ4G9Q5T) |
+| **Neural Networks and Deep Learning** | DeepLearning.AI | Aug 2026 | [Verify Certificate](https://coursera.org/verify/77T4SEDGOISP) |
 | **Practical Machine Learning** | Johns Hopkins University | Aug 2026 | [Verify Certificate](https://coursera.org/verify/11QC1YSXEV6P) |
 | **AI for Autonomous Vehicles and Robotics** | University of Michigan | Jul 2026 | [Verify Certificate](https://coursera.org/verify/EN4GCZ6FH8S8) |
-| **Crash Course on Python** | Google | Aug 2026 | [Verify Certificate](https://coursera.org/verify/6SUJQJ4G9Q5T) |
 
 ---
 
@@ -75,6 +87,6 @@ Undergraduate researcher specializing in **medical computer vision**, **volumetr
 
 ---
 
-### 📫 Contact & Collaboration
+### 📫 Contact
 - ✉️ Email: [mohsinmalik1909@gmail.com](mailto:mohsinmalik1909@gmail.com)
 - 🐙 GitHub: [github.com/cyberpunk92](https://github.com/cyberpunk92)
